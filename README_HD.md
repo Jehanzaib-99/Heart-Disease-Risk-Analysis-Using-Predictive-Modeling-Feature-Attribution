@@ -67,13 +67,6 @@ This project explores advanced machine learning techniques for predicting heart 
 
 ---
 
-## Author
-
-**Sehar Aejaz**  
-seharaejaz@gmail.com  
-
----
-
 ## Summary
 
 This project highlights the complete workflow of both replicating research and contributing original improvements in the medical ML domain. The use of stacked models, causal reasoning, and thoughtful evaluation makes it a strong demonstration of applied machine learning and research literacy.
